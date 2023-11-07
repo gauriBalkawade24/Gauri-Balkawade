@@ -1,0 +1,4 @@
+// sorting array in decending order.
+const strArray = ['a', 'c', 'z', 'f','w','b','n'];
+const descArray = strArray.sort().reverse();
+console.log(descArray);
